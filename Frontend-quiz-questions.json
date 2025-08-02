@@ -209,7 +209,9 @@
         "text-indent"
       ],
       "answer": 2
-    },
+    }
+  ],
+  "CSS": [
     {
       "question": "What does em represent in CSS?",
       "options": [
@@ -399,7 +401,9 @@
         "vh"
       ],
       "answer": 2
-    },
+    }
+  ],
+  "JavaScript": [
     {
       "question": "Which statement is used to declare a variable in JavaScript (ES6)?",
       "options": [
@@ -699,7 +703,9 @@
         "Removes element"
       ],
       "answer": 2
-    },
+    }
+  ],
+  "DOM": [
     {
       "question": "What does DOM stand for?",
       "options": [
@@ -900,8 +906,6 @@
       ],
       "answer": 1
     }
-  ],
-  "CSS": [],
-  "JavaScript": [],
-  "DOM": []
+  ]
+  
 }
