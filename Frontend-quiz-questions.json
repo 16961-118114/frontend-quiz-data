@@ -1,0 +1,907 @@
+{
+  "HTML": [
+    {
+      "question": "Which HTML element is used to provide an alternative text for an image if it cannot be displayed?",
+      "options": [
+        "<title>",
+        "<figcaption>",
+        "<alt>",
+        "alt attribute within <img> tag"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the correct HTML element for inserting a line break?",
+      "options": [
+        "<lb>",
+        "<break>",
+        "<br>",
+        "<newline>"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which HTML5 tag is used to embed media content, such as video or audio, directly into a web page without requiring a plugin?",
+      "options": [
+        "<embed>",
+        "<media>",
+        "<source>",
+        "<video> and <audio>"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the purpose of the <meta> tag in HTML?",
+      "options": [
+        "To define the main content area of the document.",
+        "To specify the document's character set, description, keywords, author, and other metadata.",
+        "To link external style sheets.",
+        "To create a hyperlink."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an inline HTML element?",
+      "options": [
+        "<div>",
+        "<p>",
+        "<span>",
+        "<h1>"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the correct way to include an external JavaScript file named script.js in an HTML document?",
+      "options": [
+        "<script src=\"script.js\"></script>",
+        "<script href=\"script.js\"></script>",
+        "<link rel=\"script\" href=\"script.js\">",
+        "<javascript src=\"script.js\"></javascript>"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which HTML attribute is used to specify a unique identifier for an element?",
+      "options": [
+        "class",
+        "name",
+        "id",
+        "data-id"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does the <head> element contain in an HTML document?",
+      "options": [
+        "The main content of the web page",
+        "Metadata about the document",
+        "Navigation links",
+        "Footer information"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which HTML element is used to create an unordered list?",
+      "options": [
+        "<ol>",
+        "<li>",
+        "<ul>",
+        "<list>"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the purpose of the aria-label attribute in HTML?",
+      "options": [
+        "Define a custom label for form input",
+        "Provide accessible label for an element",
+        "Link to a CSS file",
+        "Set default input value"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which HTML5 attribute allows for marking an element as draggable?",
+      "options": [
+        "moveable",
+        "draggable",
+        "drag",
+        "data-draggable"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How do you add placeholder text in an input field?",
+      "options": [
+        "<input type=\"text\" value=\"Enter text here\">",
+        "<input type=\"text\" default=\"Enter text here\">",
+        "<input type=\"text\" placeholder=\"Enter text here\">",
+        "<input type=\"text\" text=\"Enter text here\">"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which HTML element represents calculation results or user output?",
+      "options": [
+        "<result>",
+        "<output>",
+        "<data>",
+        "<calculation>"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Purpose of the <meter> element in HTML5?",
+      "options": [
+        "Display a progress bar",
+        "Represent a scalar measurement",
+        "Embed audio",
+        "Define a map location"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "When is <blockquote> used?",
+      "options": [
+        "Emphasized text",
+        "Short quote",
+        "Quoting another source",
+        "Code snippets"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which is a non-semantic HTML element?",
+      "options": [
+        "<header>",
+        "<main>",
+        "<span>",
+        "<nav>"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How to include inline styles in HTML?",
+      "options": [
+        "<p class=\"myStyle\">Content</p>",
+        "<p style=\"color: blue;\">Content</p>",
+        "<p id=\"myStyle\">Content</p>",
+        "<p stylesheet=\"myStyle.css\">Content</p>"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which attribute shows a tooltip on hover?",
+      "options": [
+        "label",
+        "tooltip",
+        "title",
+        "description"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which element defines a client-side image map?",
+      "options": [
+        "<map>",
+        "<area>",
+        "<imagemap>",
+        "<canvas>"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the defer attribute do in <script> tag?",
+      "options": [
+        "Executes before DOM is parsed",
+        "Executes after HTML is parsed",
+        "Loads async but executes in order",
+        "Prevents loading under conditions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which property controls spacing between characters?",
+      "options": [
+        "line-height",
+        "word-spacing",
+        "letter-spacing",
+        "text-indent"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does em represent in CSS?",
+      "options": [
+        "Size of capital 'M'",
+        "Relative to element font-size",
+        "Relative to root font-size",
+        "Relative to viewport width"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which pseudo-class selects the first child?",
+      "options": [
+        ":first-of-type",
+        ":nth-child(1)",
+        ":first-child",
+        ":only-child"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does z-index do?",
+      "options": [
+        "Sets zoom",
+        "Sets stacking order",
+        "Sets opacity",
+        "Sets width"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is not a valid display value?",
+      "options": [
+        "block",
+        "inline",
+        "grid",
+        "fixed"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "How to include an external CSS file?",
+      "options": [
+        "<style src=\"styles.css\">",
+        "<link rel=\"stylesheet\" href=\"styles.css\">",
+        "<stylesheet href=\"styles.css\">",
+        "<style link=\"styles.css\">"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Margin vs Padding?",
+      "options": [
+        "Margin = inside, Padding = outside",
+        "Padding = inside, Margin = outside",
+        "Both are outside",
+        "Both are inside"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Make text italic?",
+      "options": [
+        "text-style",
+        "font-decoration",
+        "font-style",
+        "italic"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does box-sizing: border-box; do?",
+      "options": [
+        "Prevents borders",
+        "Includes padding + border in size",
+        "Only includes content",
+        "Aligns to center"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which pseudo-class applies on hover?",
+      "options": [
+        ":active",
+        ":focus",
+        ":hover",
+        ":visited"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Selector for attribute containing substring?",
+      "options": [
+        "[attribute^=\"value\"]",
+        "[attribute$=\"value\"]",
+        "[attribute*=\"value\"]",
+        "[attribute~=\"value\"]"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "align-items: center; does what?",
+      "options": [
+        "Center on main axis",
+        "Center on cross axis",
+        "Distribute space",
+        "Wrap items"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which creates multi-column layout?",
+      "options": [
+        "text-columns",
+        "column-count",
+        "grid-template-columns",
+        "flex-flow"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Difference between transition and animation?",
+      "options": [
+        "Transition = single-state, animation = multi-state",
+        "Opposite",
+        "Transition = needs JS",
+        "Animation = older browser"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is position: sticky;?",
+      "options": [
+        "Relative to containing block",
+        "Sticks after scroll threshold",
+        "Fixed to screen",
+        "Floats to top"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How to select second <li> in a list?",
+      "options": [
+        "ul li:nth-child(2)",
+        "ul li:nth(2)",
+        "ul li:eq(2)",
+        "ul li:nth-child(1)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Purpose of @font-face?",
+      "options": [
+        "Apply bold text",
+        "Import custom fonts",
+        "Define font-family hierarchy",
+        "Declare fallback font"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which property creates grid layout?",
+      "options": [
+        "flex",
+        "display: grid;",
+        "display: table;",
+        "layout: grid;"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Effect of overflow: hidden;?",
+      "options": [
+        "Auto-scroll",
+        "Clip content",
+        "Show scrollbars",
+        "Remove element"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which unit is relative to root font size?",
+      "options": [
+        "%",
+        "em",
+        "rem",
+        "vh"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which statement is used to declare a variable in JavaScript (ES6)?",
+      "options": [
+        "var",
+        "let",
+        "const",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the result of typeof null in JavaScript?",
+      "options": [
+        "\"null\"",
+        "\"object\"",
+        "\"undefined\"",
+        "\"boolean\""
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which method converts a JSON string to a JavaScript object?",
+      "options": [
+        "JSON.parse()",
+        "JSON.stringify()",
+        "JSON.toObject()",
+        "JSON.decode()"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What will console.log(0 === '0') print?",
+      "options": [
+        "true",
+        "false",
+        "0",
+        "Error"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a closure in JavaScript?",
+      "options": [
+        "A function with no return value",
+        "A variable only accessible within a function",
+        "A function that remembers variables from its outer scope",
+        "A function passed as an argument"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does NaN stand for?",
+      "options": [
+        "Not a Null",
+        "Not a Name",
+        "Not a Number",
+        "Null as Number"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which operator is used to check both value and type?",
+      "options": [
+        "==",
+        "===",
+        "=",
+        "!=="
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the output of Boolean([])?",
+      "options": [
+        "false",
+        "undefined",
+        "null",
+        "true"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which array method creates a new array by transforming each element?",
+      "options": [
+        "map()",
+        "filter()",
+        "reduce()",
+        "forEach()"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which statement is true about const in JavaScript?",
+      "options": [
+        "Its value cannot change",
+        "The reference cannot change",
+        "The object cannot mutate",
+        "It cannot hold arrays"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is this keyword in regular function (non-arrow) context?",
+      "options": [
+        "Refers to global object",
+        "Refers to parent scope",
+        "Refers to current function",
+        "Undefined"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a falsy value?",
+      "options": [
+        "\"false\"",
+        "[]",
+        "null",
+        "{}"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does Array.isArray([]) return?",
+      "options": [
+        "true",
+        "false",
+        "undefined",
+        "null"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the result of 2 + '2'?",
+      "options": [
+        "4",
+        "22",
+        "NaN",
+        "undefined"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which keyword is used to define an asynchronous function?",
+      "options": [
+        "await",
+        "async",
+        "then",
+        "callback"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the default value of an uninitialized variable?",
+      "options": [
+        "null",
+        "undefined",
+        "0",
+        "NaN"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does typeof NaN return?",
+      "options": [
+        "\"NaN\"",
+        "\"undefined\"",
+        "\"number\"",
+        "\"object\""
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which loop guarantees execution at least once?",
+      "options": [
+        "for",
+        "while",
+        "do...while",
+        "forEach()"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How to copy an array in ES6?",
+      "options": [
+        "arr2 = arr1.copy()",
+        "arr2 = [...arr1]",
+        "arr2 = arr1.clone()",
+        "arr2 = arr1.map()"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does promise.then() do?",
+      "options": [
+        "Throws an error",
+        "Handles resolved promise",
+        "Waits for all promises",
+        "Rejects a promise"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How to prevent default form submission?",
+      "options": [
+        "event.preventDefault()",
+        "form.prevent()",
+        "stopDefault()",
+        "event.stopPropagation()"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the output of [1, 2] + [3, 4]?",
+      "options": [
+        "[1,2,3,4]",
+        "10",
+        "\"1,23,4\"",
+        "\"1,23,4\" (string concatenation)"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is a pure function?",
+      "options": [
+        "Always returns the same output for same input",
+        "Changes global state",
+        "Depends on DOM",
+        "Uses this keyword"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which keyword stops a loop?",
+      "options": [
+        "continue",
+        "exit",
+        "stop",
+        "break"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which symbol is used for template literals?",
+      "options": [
+        "'",
+        "\"",
+        "`",
+        "~"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How to convert a string to number?",
+      "options": [
+        "parseFloat()",
+        "parseInt()",
+        "Number()",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What does setTimeout(fn, 0) do?",
+      "options": [
+        "Executes instantly",
+        "Delays until next tick",
+        "Blocks thread",
+        "Ignores fn"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which symbol is used for rest/spread?",
+      "options": [
+        "...",
+        ":::",
+        "@@",
+        "**"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is event bubbling?",
+      "options": [
+        "Inner to outer propagation",
+        "Outer to inner",
+        "Random order",
+        "Only once"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does event.stopPropagation() do?",
+      "options": [
+        "Stops default behavior",
+        "Prevents event capture",
+        "Stops event from bubbling",
+        "Removes element"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does DOM stand for?",
+      "options": [
+        "Document Object Mapper",
+        "Document Oriented Model",
+        "Document Object Model",
+        "Dynamic Object Model"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How do you select an element by ID in JavaScript?",
+      "options": [
+        "document.getElementById()",
+        "document.querySelector()",
+        "document.getElementsByClassName()",
+        "document.selectById()"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What will document.querySelector('.box') return?",
+      "options": [
+        "NodeList",
+        "HTMLCollection",
+        "First element with class \"box\"",
+        "All elements with class \"box\""
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is returned by getElementsByClassName()?",
+      "options": [
+        "NodeList",
+        "HTMLCollection",
+        "Element",
+        "String"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which method creates a new DOM element?",
+      "options": [
+        "createElement()",
+        "new Element()",
+        "document.element()",
+        "createNode()"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How do you remove a DOM element?",
+      "options": [
+        "element.remove()",
+        "element.delete()",
+        "element.removeChild()",
+        "element.destroy()"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does textContent return?",
+      "options": [
+        "Inner HTML",
+        "Raw text content",
+        "DOM object",
+        "Formatted HTML"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is innerHTML used for?",
+      "options": [
+        "Returns object",
+        "Adds script",
+        "Gets/sets HTML inside element",
+        "Adds attribute"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of value does getAttribute() return?",
+      "options": [
+        "Object",
+        "Boolean",
+        "String",
+        "Number"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How to listen to a click event?",
+      "options": [
+        "element.click()",
+        "addEventListener(\"click\", fn)",
+        "onClick()",
+        "clickEvent(fn)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How to change the text of a button using JS?",
+      "options": [
+        "button.innerHTML = \"Click\"",
+        "button.text = \"Click\"",
+        "button.setText(\"Click\")",
+        "button.value = \"Click\""
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which property is used to change an element\u2019s style in JS?",
+      "options": [
+        "element.setStyle",
+        "element.css",
+        "element.style",
+        "element.setCSS"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How do you stop event bubbling?",
+      "options": [
+        "stopPropagation()",
+        "stopBubble()",
+        "preventDefault()",
+        "cancelBubble()"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does event.target refer to?",
+      "options": [
+        "The event type",
+        "The event listener",
+        "The element that triggered the event",
+        "The root node"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is parentNode in the DOM?",
+      "options": [
+        "Parent method",
+        "Node before current",
+        "Immediate ancestor node",
+        "A CSS property"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which method inserts an element after another?",
+      "options": [
+        "appendAfter()",
+        "insertAdjacentElement()",
+        "appendChild()",
+        "insertAfter()"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which property gives the children of an element?",
+      "options": [
+        "element.kids",
+        "element.nodes",
+        "element.children",
+        "element.descendants"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How to trigger an event manually?",
+      "options": [
+        "triggerEvent()",
+        "dispatchEvent()",
+        "callEvent()",
+        "runEvent()"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the default event phase?",
+      "options": [
+        "Capturing",
+        "Target",
+        "Bubbling",
+        "Ending"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does document.body return?",
+      "options": [
+        "HTML string",
+        "Body tag element",
+        "Page metadata",
+        "Root node"
+      ],
+      "answer": 1
+    }
+  ],
+  "CSS": [],
+  "JavaScript": [],
+  "DOM": []
+}
